@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/killmesoonbaby044/REACT_MOVIES_FROM_API/static/css/main.b6303bb5.css",
+    "main.js": "/killmesoonbaby044/REACT_MOVIES_FROM_API/static/js/main.9190c02a.js",
+    "index.html": "/killmesoonbaby044/REACT_MOVIES_FROM_API/index.html",
+    "main.b6303bb5.css.map": "/killmesoonbaby044/REACT_MOVIES_FROM_API/static/css/main.b6303bb5.css.map",
+    "main.9190c02a.js.map": "/killmesoonbaby044/REACT_MOVIES_FROM_API/static/js/main.9190c02a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6303bb5.css",
+    "static/js/main.9190c02a.js"
+  ]
+}
